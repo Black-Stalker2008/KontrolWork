@@ -1,0 +1,15 @@
+C:\Users\Alexandr\Desktop\Education\KontrolWork\bin\Debug\net6.0\KontrolWork.exe
+C:\Users\Alexandr\Desktop\Education\KontrolWork\bin\Debug\net6.0\KontrolWork.deps.json
+C:\Users\Alexandr\Desktop\Education\KontrolWork\bin\Debug\net6.0\KontrolWork.runtimeconfig.json
+C:\Users\Alexandr\Desktop\Education\KontrolWork\bin\Debug\net6.0\KontrolWork.dll
+C:\Users\Alexandr\Desktop\Education\KontrolWork\bin\Debug\net6.0\KontrolWork.pdb
+C:\Users\Alexandr\Desktop\Education\KontrolWork\obj\Debug\net6.0\KontrolWork.csproj.AssemblyReference.cache
+C:\Users\Alexandr\Desktop\Education\KontrolWork\obj\Debug\net6.0\KontrolWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandr\Desktop\Education\KontrolWork\obj\Debug\net6.0\KontrolWork.AssemblyInfoInputs.cache
+C:\Users\Alexandr\Desktop\Education\KontrolWork\obj\Debug\net6.0\KontrolWork.AssemblyInfo.cs
+C:\Users\Alexandr\Desktop\Education\KontrolWork\obj\Debug\net6.0\KontrolWork.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Desktop\Education\KontrolWork\obj\Debug\net6.0\KontrolWork.dll
+C:\Users\Alexandr\Desktop\Education\KontrolWork\obj\Debug\net6.0\refint\KontrolWork.dll
+C:\Users\Alexandr\Desktop\Education\KontrolWork\obj\Debug\net6.0\KontrolWork.pdb
+C:\Users\Alexandr\Desktop\Education\KontrolWork\obj\Debug\net6.0\KontrolWork.genruntimeconfig.cache
+C:\Users\Alexandr\Desktop\Education\KontrolWork\obj\Debug\net6.0\ref\KontrolWork.dll
